@@ -10,5 +10,5 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Utcute&layout=compact&langs_count=16&theme=dracula)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs?username=Utcute&layout=compact&langs_count=16&theme=dracula)-->
 ![](https://github-readme-stats.vercel.app/api?username=Utcute&show_icons=true&theme=dracula)
